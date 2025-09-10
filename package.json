@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "next": "^13.1.6",
+    "pkg": "^5.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "pratica-tabnews",
+  "version": "1.0.0",
+  "description": "praticando aqui meus conhecimentos",
+  "main": "index.js",
+  "scripts": { "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
